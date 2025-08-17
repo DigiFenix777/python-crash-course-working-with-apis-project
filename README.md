@@ -88,7 +88,7 @@ project-working-with-apis/
 ## 🚀 How to Run
 
 1. Clone this repo and move into the folder:
-2. ```bash
+```bash
 git clone git@github.com:your-username/project-working-with-apis.git
 cd project-working-with-apis
 ```
